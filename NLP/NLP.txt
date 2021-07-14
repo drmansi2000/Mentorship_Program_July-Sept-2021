@@ -1,2 +1,2 @@
 This repository is for Natural Language Processing.
-Mnetor - Shruti Gupta
+Mentor - Shruti Gupta
