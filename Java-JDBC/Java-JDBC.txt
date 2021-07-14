@@ -1,2 +1,2 @@
 This repository is for Java/JDBC
-Mnetor - Reetika Singh
+Mentor - Reetika Singh
