@@ -1,0 +1,2 @@
+This repository is for Java/JDBC
+Mnetor - Reetika Singh
